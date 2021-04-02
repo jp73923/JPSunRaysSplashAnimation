@@ -1,2 +1,1 @@
 # JPSunRaysSplashAnimation
-# JPSunRaysSplashAnimation
